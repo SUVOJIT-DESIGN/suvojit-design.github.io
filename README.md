@@ -7,4 +7,4 @@ web design for all
     <title>Web for all</title>
     <link rel="icon" href="http://www.pngall.com/wp-content/uploads/5/Explosion-Boom.png">
   </head>
-  </htmk>
+  </html>
